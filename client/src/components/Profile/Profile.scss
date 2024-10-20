@@ -1,0 +1,30 @@
+.profile{
+    // background-color: aqua;
+    display: flex;
+    gap: 40px;
+    
+    .image{
+       height: 80%;
+       flex: 2;
+       img{
+        height: 590px;
+       }
+       
+    }
+    align-items: center;
+
+    .detail{
+        flex: 1;
+        align-items: center;
+ 
+
+ 
+
+    .body{
+        font-size: 25px;
+        // font-size: larger;
+        flex: 1;
+
+    }
+}
+}
